@@ -6,6 +6,7 @@
 +3316221____: Comunik CRM 1
 +3316224____: DVS 1
 +3316230____: Kav El 1
++3316232____: Yaatel 1
 +33162491___: Lineconnects 16
 +33162529___: Infinivox 16
 +33162541___: Oxilog 11
@@ -25,6 +26,7 @@
 +3327020____: Comunik CRM 2
 +3327023____: DVS 2
 +3327029____: Kav El 2
++3327031____: Yaatel 2
 +33270454___: Infinivox 27
 +33270456___: Cloud telecom 2
 +33270457___: Lineconnects 27
@@ -44,6 +46,7 @@
 +3337720____: Comunik CRM 3
 +3337723____: DVS 3
 +3337729____: Kav El 3
++3337731____: Yaatel 3
 +33377445___: Infinivox 37
 +33377447___: Cloud telecom 3
 +33377448___: Lineconnects 37
@@ -62,6 +65,7 @@
 +3342420____: Comunik CRM 4
 +3342423____: DVS 4
 +3342428____: Kav El 4
++3342430____: Yaatel 4
 +33424455___: Infinivox 42
 +33424457___: Cloud telecom 4
 +33424458___: Lineconnects 42
@@ -80,6 +84,7 @@
 +3356820____: Comunik CRM 5
 +3356823____: DVS 5
 +3356828____: Kav El 5
++3356830____: Yaatel 5
 +33568464___: Infinivox 56
 +33568466___: Cloud telecom 5
 +33568467___: Lineconnects 56
