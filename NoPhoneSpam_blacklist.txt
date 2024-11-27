@@ -35,6 +35,7 @@
 +33270472___: Oxilog 22
 +33270473___: Oxilog 23
 +33270474___: Oxilog 24
++3327049____: Manifone 27
 +33279769___: Lineconnects 27
 +33339582___: Lineconnects 33
 +33353658___: Infinivox 35
@@ -55,6 +56,7 @@
 +33377462___: Oxilog 32
 +33377463___: Oxilog 33
 +33377464___: Oxilog 34
++3337748____: Manifone 37
 +33412139___: Infinivox 41
 +33420230___: Lineconnects 42
 +3342400____: Manifone 4
@@ -74,6 +76,7 @@
 +33424472___: Oxilog 42
 +33424473___: Oxilog 43
 +33424474___: Oxilog 44
++3342450____: Manifone 42
 +33519093___: Lineconnects 51
 +33525347___: Infinivox 52
 +3356800____: Manifone 5
@@ -93,6 +96,7 @@
 +33568482___: Oxilog 52
 +33568483___: Oxilog 53
 +33568484___: Oxilog 54
++3356850____: Manifone 56
 +3393908____: Get & Go 9
 +3393909____: Vast 9
 +3394800____: Manifone 9
